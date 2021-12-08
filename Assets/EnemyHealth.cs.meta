@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 35e7fd72c6269f7478b3f2d66589d077
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthBarUI: {instanceID: 0}
+  - slider: {instanceID: 0}
+  - coin: {fileID: 6349772104972018721, guid: 4cc9cbe0e617b07458f374c3f1ea973b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
